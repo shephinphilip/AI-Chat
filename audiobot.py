@@ -4,7 +4,7 @@ import speech_recognition as sr
 from gtts import gTTS
  
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
  
 # Streamlit UI Improvements with Custom Style
 custom_style = """
